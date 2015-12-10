@@ -1,4 +1,4 @@
-# Data-Struct-and-Algorithm
+﻿# Data-Struct-and-Algorithm
 采用C\C++实现大多数的数据结构和部分算法
 
 目的：练习数据结构和算法
@@ -241,3 +241,9 @@
 
     ○ PrintNPrime.cpp
         输出前N个素数。不需要考虑整数溢出问题，也不需要使用大数处理算法
+
+
+    ○操作系统试验.cpp
+	时间片轮转算法
+	先来先服务算法
+	优先级服务算法
